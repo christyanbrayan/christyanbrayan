@@ -1,1 +1,4 @@
-# :computer: :brazil:
+# :brazil:
+# :computer:
+# :books: ![HTML5](https://icon-icons.com/icons2/2107/PNG/32/file_type_html_icon_130541.png "HTML5") ![CSS3](https://icon-icons.com/icons2/2107/PNG/32/file_type_css_icon_130661.png "CSS3") ![JavaScript](https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png "JavaScript") ![Python](https://icon-icons.com/icons2/112/PNG/32/python_18894.png "Python")
+# :globe_with_meridians: [![GitHub](https://icon-icons.com/icons2/936/PNG/32/github-logo_icon-icons.com_73546.png "GitHub | @christyanbrayan")](https://github.com/christyanbrayan) [![GitLab](https://icon-icons.com/icons2/2415/PNG/32/gitlab_original_logo_icon_146503.png "GitLab | @christyanbrayan")](https://gitlab.com/christyanbrayan) [![Behance](https://icon-icons.com/icons2/914/PNG/32/Behance_Solid_icon-icons.com_71813.png  "Behance | @christyanbrayan")](https://behance.net/christyanbrayan) [![LinkedIn](https://icon-icons.com/icons2/1099/PNG/32/1485482199-linkedin_78667.png "LinkedIn | @christyanbrayan")](https://linkedin.com/in/christyanbrayan)
